@@ -1,2 +1,2 @@
 # nwr27-resolusi
-Repository untuk menyimpan nwr27 kedepannnya
+Repository untuk menyimpan rencana nwr27 kedepannnya
