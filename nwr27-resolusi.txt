@@ -4,4 +4,3 @@ NWR27 RESOLUSI
 - Mempelajari bahasa c++
 - Mempelajari image processing
 - Riset KRAI
-- Mempelajari bahasa pascal
