@@ -1,0 +1,5 @@
+NWR27 RESOLUSI
+- Mempelajari github
+- Mempelajari bahasa c
+- Mempelajari bahasa c++
+- Mempelajari image processing
